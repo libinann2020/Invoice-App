@@ -20,3 +20,5 @@ npm install --save-dev @vue/compiler-sfc babel-eslint node-sass sass-loader
 npm install --save uid
 
 npm run serve
+
+https://www.youtube.com/watch?v=vsJtN54aA7w
